@@ -1,4 +1,4 @@
 # demo
 demo of git
 <br>
-Author : prajot
+Author : prajot magadum
